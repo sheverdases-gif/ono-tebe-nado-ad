@@ -157,8 +157,8 @@ body {
 }
 
 .lots {
-  margin-top: 180px;
-  margin-bottom: 120px;
+  margin-top: 170px;
+  margin-bottom: 145px;
 }
 .lots__heading {
   font-size: 40px;
@@ -264,7 +264,7 @@ body {
 .about__title {
   font-size: 40px;
   text-transform: uppercase;
-  margin-top: 0;
+  margin-top: 100px;
   margin-bottom: 40px;
   font-weight: 700;
 }
