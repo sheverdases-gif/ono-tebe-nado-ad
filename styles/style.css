@@ -28,6 +28,12 @@ body {
   padding-right: 50px;
 }
 
+.lots,
+.about {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
 .header__links-list {
   display: flex;
   gap: 32px;
@@ -171,7 +177,7 @@ body {
 }
 
 .lots__card-list-item {
-  width: 320px;
+  width: 334px;
   min-height: 596px;
 }
 
@@ -234,7 +240,7 @@ body {
 
 .about {
   display: grid;
-  grid-template-columns: 320px 1fr;
+  grid-template-columns: 334px 1fr;
   gap: 25px;
   margin-bottom: 180px;
 }
