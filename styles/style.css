@@ -96,7 +96,7 @@ body {
 .cover__title {
   display: flex;
   font-size: 100px;
-  line-height: 1.15;
+  line-height: 1;
   letter-spacing: 0.05em;
   text-transform: uppercase;
   color: #fff;
@@ -258,8 +258,8 @@ body {
 .about__title {
   font-size: 40px;
   text-transform: uppercase;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 0;
+  margin-bottom: 40px;
   font-weight: 700;
 }
 
@@ -278,10 +278,12 @@ body {
   align-items: start;
   padding-top: 180px;
   padding-bottom: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .footer .address {
-  align-items: center;
+  align-items: flex-start;
 }
 
 .footer__menu {
