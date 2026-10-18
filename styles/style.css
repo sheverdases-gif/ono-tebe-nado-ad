@@ -6,7 +6,7 @@ body {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 50px 50px 40px 50px;
+  padding: 92px 50px 96px;
 }
 
 .cover {
@@ -97,7 +97,7 @@ body {
   display: flex;
   font-size: 100px;
   line-height: 1;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
   color: #fff;
   flex-direction: column;
@@ -234,7 +234,7 @@ body {
 
 .about {
   display: grid;
-  grid-template-columns: 334px 1fr;
+  grid-template-columns: 320px 1fr;
   gap: 25px;
   margin-bottom: 180px;
 }
@@ -276,10 +276,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: start;
-  padding-top: 180px;
-  padding-bottom: 80px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding: 180px 50px 80px;
 }
 
 .footer .address {
